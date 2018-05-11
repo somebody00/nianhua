@@ -11,3 +11,4 @@ sed 'd' /etc/passwd      ##删除全部
 
 
 
+ssss
